@@ -6,3 +6,6 @@
 Find your Domain: <input type="text" name="query" size="20" />
 <input type="submit" value="Go" />
 </form>
+
+
+Or go [Break The Code](https://btc2.tech/ThZWCx)
